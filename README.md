@@ -39,13 +39,6 @@ README.md
 - CSS3 (CSS Variables for theming)
 - Vanilla JavaScript (no frameworks)
 
-## 🤝 Contributing
-
-Feel free to open issues or submit PRs for new features — things like:
-- Array index support in paths (e.g. `items[0].name`)
-- Search/filter within the tree
-- Export all paths as a list
-
 ## 📄 License
 
 MIT — free to use, modify, and distribute.
